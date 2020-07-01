@@ -1,12 +1,10 @@
+@import url('/css/normalize.css');
+
 ul {
     list-style-type: none;
     margin:5px;
     padding: 0;
     display: flex;
-  
-
-    
-   
 
 }
 li {
@@ -32,7 +30,7 @@ background-color: red;
 }
 .hero {
 
-    color: white;
+color: white;
 min-height: 33vh;
 display: flex;
 flex-direction: column;
@@ -54,7 +52,7 @@ ul, .hero {
     background-color: red;
     opacity: 80%;
 }
-@import url('/css/normalize.css')
+
 
 /* Mobile Styles*/
 
