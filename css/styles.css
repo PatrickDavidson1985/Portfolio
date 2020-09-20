@@ -1,4 +1,4 @@
-@import url('/css/normalize.css');
+
 
 ul {
     list-style-type: none;
@@ -54,11 +54,6 @@ ul, .hero {
 }
 
 
-/* Mobile Styles*/
-
-/* 1. Align the nav link items to the right of the screen
-2. add whitespace around the nav links
-3. create a "hero" component
-4. Add your name and little description about you to the hero
-5. Add button that will eventually link to the contact form
-6. using MDN: Import noramlize.css (google it) via the css stylesheet
+/* must have at least one media query*/
+/* height of the welcome section should be equal to the height of the viewport*/
+/* navbar should always remain at the top of the viewport*/
